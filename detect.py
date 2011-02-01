@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Grep ALL access lists for a specified pattern
+# Refactoring code
 
 import os.path
 import pwd
