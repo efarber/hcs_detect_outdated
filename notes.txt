@@ -1,0 +1,11 @@
+git clone [git hub url]
+
+
+git branch [branchname]
+git checkout [branchname]
+-make changes to files
+git add [filename or .]
+git commit -m '[message]'
+git checkout master
+git merge [branchname]
+git push origin master
